@@ -20,7 +20,7 @@ To identify spatial patterns in voter behavior, particularly:
 
 ## Data
 
-- Input file: `epvalasztascount.geojson`
+- Input file: `budapest.geojson`
 - Contents: voting station geometries, turnout data, and vote counts by party
 - CRS: EPSG:4326
 
